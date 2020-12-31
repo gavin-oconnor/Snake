@@ -1,1 +1,2 @@
 # Snake
+# This project is a clone of the arcade game, Snake. The game runs using pygame, a python imaging/game dev library. To play, make sure you have Python 3 installed and run pip3 install pygame, and you should be good to play.
